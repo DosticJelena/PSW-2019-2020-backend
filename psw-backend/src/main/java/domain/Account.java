@@ -9,6 +9,8 @@ import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 
 import org.springframework.lang.NonNull;
+import org.springframework.security.core.userdetails.UserDetails;
+
 
 @Entity
 @Inheritance(strategy = InheritanceType.SINGLE_TABLE)
@@ -51,9 +53,8 @@ public class Account {
 	@Column(name = "phoneNumber")
 	@NonNull
 	private String phoneNumber;
-		
-	
-	public Account() {
+
+	public Account(){
 		super();
 	}
 
@@ -123,5 +124,7 @@ public class Account {
 	public void setPhoneNumber(String phoneNumber) {
 		this.phoneNumber = phoneNumber;
 	}
-	
+
+
+
 }
