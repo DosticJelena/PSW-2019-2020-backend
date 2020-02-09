@@ -31,4 +31,4 @@ If you are using Apache Maven, go to the psw-isa-back directory inside the appli
 
 Note Because of the free Heroku version when accessing the website please wait approximately 15 seconds after the first access and then refresh the page for servers to wake up.
 
-[Deployment repo] https://github.com/djordjebatic/PSW-2019-2020-backend [Heroku](to be added)
+[Deployment repo](https://github.com/djordjebatic/PSW-2019-2020-backend) [Heroku](https://psw-isa-tim3-frontend.herokuapp.com)
