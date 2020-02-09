@@ -4,7 +4,7 @@
 
 - Student 1: Sara Fojkar @SaraFojkar
 - Student 2: Jelena Dostić @DosticJelena
-- Student 3: Djordje Batić @baticdjordje
+- Student 3: Djordje Batić @djordjebatic
 
 ## Download instructions
 
