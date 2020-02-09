@@ -2,9 +2,9 @@
 
 ## Authors
 
-Student 1: Sara Fojkar @SaraFojkar
-Student 2: Jelena Dostić @DosticJelena
-Student 3: Djordje Batić @baticdjordje
+- Student 1: Sara Fojkar @SaraFojkar
+- Student 2: Jelena Dostić @DosticJelena
+- Student 3: Djordje Batić @baticdjordje
 
 ## Download instructions
 
@@ -14,10 +14,10 @@ $ git clone https://github.com/DosticJelena/PSW-2019-2020-backend.git
 
 ## Prerequisites
 
-Java SDK v1.8 
-Apache Maven v3.6.3 (or use IDE of your choice, such as IntelliJ Idea, Eclipse etc.)
-NodeJS v12.13.0 
-PostgreSQL v12.0 
+- Java SDK v1.8 
+- Apache Maven v3.6.3 (or use IDE of your choice, such as IntelliJ Idea, Eclipse etc.)
+- NodeJS v12.13.0 
+- PostgreSQL v12.0 
 
 ## Configuration
 
